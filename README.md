@@ -22,3 +22,11 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```
  * Use ```spray-papers``` as terminal command.
 -->
+
+## Papers
+* <a href="http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=3351&context=bclr">Big Data and Due Process: Toward aF ramework to Redress Predictive Privacy Harms</a>  
+```03/07/2016, ```  
+```Kate Crawford, Jason Shultz, Boston College Law Review```  
+* <a href=""> 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy</a>  
+```03/07/2016, ```  
+```Daniel J. Solove, SSRN```  
