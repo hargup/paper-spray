@@ -1,23 +1,14 @@
 # Paper-Spray
 
-This is a list of interesting research papers maintained by [Kumar](https://github.com/kumarkrishna) and [Biswa](https://github.com/biswajitsc), mainly in Machine Learning, but definitely not limited to it. This is mainly an initiative to inculcate a reading habit among ourselves. Suggested reads are always welcome!
+Forked from [Kumar](https://github.com/kumarkrishna) and
+[Biswa](https://github.com/biswajitsc)'s [Paper Spray](https://github.com/kumarkrishna/paper-spray) this repository is a collection of papers I have read or would want to read encompassing Tech, Human Rights, Law and Policy.
 
-We would try submit only links which are freely available, but we may also add few links which can be accessed freely only from an university network.
-
-__We have created a webpage for [Paper-Spray](https://biswajitsc.github.io/paper-spray.html) containing a searchable list of the papers in the json file.__
+__We have created a webpage for [Paper-Spray](https://hargup.in/paper-spray.html) containing a searchable list of the papers in the json file.__
 
 Entry format:
 > * <a href="link">Paper Title</a>  
 > ```Date Added, Keywords```  
 > ```Author, Conference, Year```
-
-Abbreviations:
-* AI: Artificial Intelligence
-* CV : Computer Vision
-* DL: Deep Learning
-* ML : Machine Learning
-* NLP : Natural Language Processing
-* RL : Reinforcement Learning
 
 <!---
 CLI for adding papers :
@@ -31,6 +22,5 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 ```
  * Use ```spray-papers``` as terminal command.
 -->
-
 
 ## Papers
