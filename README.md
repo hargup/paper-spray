@@ -24,7 +24,13 @@ alias spray-papers="bash $paperspraypath/scripts/add_papers.sh"
 -->
 
 ## Papers
-* <a href="http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=3351&context=bclr">Big Data and Due Process: Toward aF ramework to Redress Predictive Privacy Harms</a>  
+* <a href="http://www.cl.cam.ac.uk/~sk766/publications/pets16_sok_censorship.pdf">Making Sense of Censorship Resistance Systems</a>  
+```13/08/2016, privacy, censorship, internet```  
+```Sheharbano Khattak, Proceedings on Privacy Enhancing Technologies ; 2016```  
+* <a href="Through an ISP Lens">A Look at the Consequences of Internet Censorship</a>  
+```13/08/2016, internet, censorship```  
+```, Internet Measurement Conference 2014```  
+* <a href="http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=3351&context=bclr">Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms</a>  
 ```03/07/2016, ```  
 ```Kate Crawford, Jason Shultz, Boston College Law Review```  
 * <a href=""> 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy</a>  

@@ -1,20 +1,36 @@
 {
   "data": [
     [
-      "03/07/2016",
-      "Kate Crawford, Jason Shultz",
-      "<a href=\"http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=3351&context=bclr\">Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms</a>",
-      "Boston College Law Review",
-      "",
+      "13/08/2016", 
+      "Sheharbano Khattak", 
+      "<a href=\"http://www.cl.cam.ac.uk/~sk766/publications/pets16_sok_censorship.pdf\">Making Sense of Censorship Resistance Systems</a>", 
+      "Proceedings on Privacy Enhancing Technologies ; 2016", 
+      "privacy, censorship, internet", 
       "n"
-    ],
+    ], 
     [
-        "03/07/2016",
-        "Daniel J. Solove",
-        "<a href=\"\"> 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy</a>",
-        "SSRN",
-        "",
-        "n"
+      "13/08/2016", 
+      "", 
+      "<a href=\"Through an ISP Lens\">A Look at the Consequences of Internet Censorship</a>", 
+      "Internet Measurement Conference 2014", 
+      "internet, censorship", 
+      "http://dl.acm.org/citation.cfm?id=2663750"
+    ], 
+    [
+      "03/07/2016", 
+      "Kate Crawford, Jason Shultz", 
+      "<a href=\"http://lawdigitalcommons.bc.edu/cgi/viewcontent.cgi?article=3351&context=bclr\">Big Data and Due Process: Toward a Framework to Redress Predictive Privacy Harms</a>", 
+      "Boston College Law Review", 
+      "", 
+      "n"
+    ], 
+    [
+      "03/07/2016", 
+      "Daniel J. Solove", 
+      "<a href=\"\"> 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy</a>", 
+      "SSRN", 
+      "", 
+      "n"
     ]
   ]
 }
